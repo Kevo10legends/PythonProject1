@@ -1,0 +1,9 @@
+my_string=str("emobilis")
+my_int=int(5)
+my_float=float(54.34)
+my_bool= True
+my_bool2=False
+my_list=["kevin","john","mary"]
+my_tuple=("bananas","mangoes","oranges")
+my_set= {"toyota","nissan","mercedes"}
+my_dictionary={"name":"kevin","salary":300000}
